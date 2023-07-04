@@ -50,7 +50,7 @@ c39. C52 shows an average difference of about 13 mg.
 
 
 
-### Graphical Descriptive Results
+### Numerical Descriptive Results
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 ```{r}
@@ -66,10 +66,10 @@ The grapph shows that c52 is higher in vitamin c than c39.
 t.test(VitC~Cult,data=veggy)
 ```
 
-### Numerical Descriptive Results
-
-<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+The p-value, 0.0000000003405, I reject the null hypothesis, concluding that there is a vitamin c difference in the cultivation methods of c52 and c59.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+The original question "is there a differnce in vitamin c in cabbage c52 and c39" based on the T test we found that there is a significance difference that c52 cultivation produces more vitamin c than c39.
+
