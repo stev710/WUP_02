@@ -73,3 +73,4 @@ The p-value, 0.0000000003405, I reject the null hypothesis, concluding that ther
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 The original question "is there a differnce in vitamin c in cabbage c52 and c39" based on the T test we found that there is a significance difference that c52 cultivation produces more vitamin c than c39.
 
+
